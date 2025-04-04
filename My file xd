@@ -1,0 +1,3 @@
+git add .gitignore
+git commit -m "Añadir .gitignore para Construct 3"
+git push origin main
