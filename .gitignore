@@ -1,2 +1,23 @@
-*.uistate.json
-ts-defs
+# Archivos temporales y de caché generados por Construct 3
+*.swp
+*.bak
+*.log
+*.tmp
+*.user
+
+# Archivos de configuración del editor
+*.cbp
+*.suo
+*.userprefs
+.idea/
+.vscode/
+
+# Archivos generados al exportar el proyecto
+exported/
+
+# Carpeta de backups o guardados automáticos
+backup/
+
+# Archivos específicos de sistemas operativos
+.DS_Store           # Archivos ocultos de macOS
+Thumbs.db           # Archivos de Windows

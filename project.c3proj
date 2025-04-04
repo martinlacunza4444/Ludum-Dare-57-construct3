@@ -47,7 +47,8 @@
 		"items": [
 			"Button",
 			"Forma3D",
-			"Sprite"
+			"Sprite",
+			"Forma3D2"
 		],
 		"subfolders": []
 	},
