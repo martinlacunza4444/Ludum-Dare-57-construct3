@@ -9,10 +9,8 @@
 *.cbp
 *.suo
 *.userprefs
-.idea/
-.vscode/
 
-# Archivos generados al exportar el proyecto
+# Archivos generados por Construct 3
 exported/
 
 # Carpeta de backups o guardados automáticos
@@ -21,3 +19,7 @@ backup/
 # Archivos específicos de sistemas operativos
 .DS_Store           # Archivos ocultos de macOS
 Thumbs.db           # Archivos de Windows
+
+# Archivos de configuraciones de editores
+.idea/
+.vscode/
